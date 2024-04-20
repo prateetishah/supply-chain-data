@@ -104,8 +104,8 @@ useEffect(() => {
         {columnData.length > 0 && (
         <select value={selectedData} onChange={handleDataChange}>
         <option value="">Select a Type</option>
-        {columnData.map((data) => (
-          <option key={data} value={data}>
+        {columnData.map((data, index) => (
+          <option key={index} value={data}>
             {data}
           </option>
         ))}
