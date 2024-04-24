@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DataLoading/.idea/DataLoading.iml" filepath="$PROJECT_DIR$/../DataLoading/.idea/DataLoading.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/smart-supply-chain.iml" filepath="$PROJECT_DIR$/.idea/smart-supply-chain.iml" />
     </modules>
   </component>
